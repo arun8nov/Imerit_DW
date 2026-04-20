@@ -1,2 +1,10 @@
 pandas
 numpy
+matplotlib
+seaborn
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+apscheduler
